@@ -28,3 +28,5 @@ This project focused on building the SQL fundamentals and getting familiar with 
   * A total of 90398 employees are identified to be approaching their retirement period and only 1940 employees are eligible for mentorship.
   * Getting in a little more graniluar, there are 29414 Senior Engineers projected to be retiering and only 589 employees are available taking **Engineer, Assistant Engineer and Technical Lead** titles into consideration for mentoring. This strategy eliminates 1/3 of the mentorship eligible employees leaving other categories of succession into risk.
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+  * NO. The retirement-eligible employee count out numbers the number the mentoring list.
+  * Based on the analysis the company needs to plan for new hiring and build a succession plan accordingly.
