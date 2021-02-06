@@ -19,13 +19,8 @@ This project focused on building the SQL fundamentals and getting familiar with 
 * **Mentorship Title** - The second data analysis task is an extension to deliverable 1. Now that we know who is ready to retire soon, we want to identify those eligible candidate who can be built into a succession plan or mentorship plan. In this data set we also included a new source object to determine the department the employee is in. 
   * We used **DISTINCT ON** function to eliminate duplicate employees
   * We narrowed the result to employees who were born in the year **1965**
- * The exercise introducted the concept of 
-  * Extract and Load
-  * Data sorting 
-  * Duplicate data cleanup and how to refine the dataset to fit the analysis needs
-  * Table joins and conditional filtering
-  * Using table alias
+ * The module introducted basic SQL concepts and building datasets for analysis. We learnt some basics of ETL concepts in this module which is a key building block for a reporting platforms.  
   
-                                                                                                                                                                     
+  
 ### Summary
 Looking at the above statistis it is clear that **Urban City Typ** has a higher operations when compared to other two city types. Even though the Urban city type is showing the highest fares, when comparing the trends between the 3 City Types all three types are consistent across all months based on the respective ride and drive count. Based on this **I recomment to increase the operations in other 2 cities to see a higher fairs**. 
