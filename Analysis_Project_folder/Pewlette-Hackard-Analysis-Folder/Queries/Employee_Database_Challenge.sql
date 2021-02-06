@@ -23,10 +23,10 @@ INTO unique_titles
 FROM retirement_titles
 ORDER BY emp_no, to_date DESC;
 
-Select * From unique_titles limit 10;
+Select count(1) From unique_titles;
 
 --Step 15
-select count(1), title 
+select Count(1), title 
 INTO retiring_titles
 from unique_titles
 GROUP By title
@@ -51,6 +51,9 @@ Join titles t on e.emp_no = t.emp_no
 WHERE birth_date BETWEEN '1965-01-01' AND '1965-12-31'
 order by e.emp_no;
 
-select count(1) from mentorship_eligibilty;
+select count(1), title from mentorship_eligibilty
+group by title
+order by count(1) desc;
 
+select count(1) from mentorship_eligibilty;
 
