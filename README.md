@@ -23,4 +23,5 @@ This project focused on building the SQL fundamentals and getting familiar with 
   
   
 ### Summary
-Looking at the above statistis it is clear that **Urban City Typ** has a higher operations when compared to other two city types. Even though the Urban city type is showing the highest fares, when comparing the trends between the 3 City Types all three types are consistent across all months based on the respective ride and drive count. Based on this **I recomment to increase the operations in other 2 cities to see a higher fairs**. 
+* How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+* Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
