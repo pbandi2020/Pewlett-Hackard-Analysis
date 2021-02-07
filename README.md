@@ -13,9 +13,16 @@ This project focuses on building the SQL fundamentals and getting familiar with 
 * **Retirement Title**  - The goal of the first output is to retrieve the employee information along with their titles who are anticipated to retire soon. The condition used to identify the pool of employees that fall into this category is highlighted in the below image and loaded to a new table called "retirement_title". 
   * In the first part of deliverable 1, we **EXTRACTED from the SOURCE objects and LOADED the output data into a NEW object.**
   * Employee and Title tables were the source object and Retirement_title is the result object.
+ 
+ <table>
+ <tr>   
+    <td align="center"> Employees Eligible to Retire  </td>
+  </tr> 
+  <tr>   
+    <td valign="top"> <img src="/Analysis_Project_folder/Pewlette-Hackard-Analysis-Folder/RetirementTitle.png" width="500" /> </td>
+   </tr>     
+</Table>  
   
-  
-  <img src=/Analysis_Project_folder/Pewlette-Hackard-Analysis-Folder/RetirementTitle.png alt="Retirement Title"/>
   
 * **Unique Title** - Take a look at the result set in  the retirement table. An employee has multiple entires based on various roles he/she might have carried during their tenure with the company. For our current analysis we just need their latest title entry hence using a ** DISTINCT ON** aggregation function on the **Primary Key** eliminates the duplicate entry. Below is an example of a single employee dataset to help vizualize the data. 
 
