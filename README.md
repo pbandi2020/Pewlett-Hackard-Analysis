@@ -24,7 +24,7 @@ This project focuses on building the SQL fundamentals and getting familiar with 
 </Table>  
   
   
-* **Unique Title** - Take a look at the result set in  the retirement table. An employee has multiple entires based on various roles he/she might have carried during their tenure with the company. For our current analysis we just need their latest title entry hence using a ** DISTINCT ON** aggregation function on the **Primary Key** eliminates the duplicate entry. Below is an example of a single employee dataset to help vizualize the data. 
+* **Unique Title** - Take a look at the result set in  the retirement table. An employee has multiple entries based on various roles he/she might have had during their tenure with the company. For our current analysis we just need their latest title entry hence using a ** DISTINCT ON** aggregation function on the **Primary Key** eliminates the duplicate entry. Below is an example of a single employee dataset to help vizualize the data. 
 
 <table>
  <tr>   
