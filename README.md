@@ -38,10 +38,10 @@ This project focuses on building the SQL fundamentals and getting familiar with 
 
 
 * **Retiring Title** - This result set is an aggregation of records count by title, So that the company can plan, prioritize on mentorship program and perform **Resourcing Risk Analysis** in an efficient and effective timeframe.  
-* **Mentorship Title** - The second data analysis task is an extension to deliverable 1. Now that we know who is ready to retire soon, we want to identify those eligible candidate who can be built into a succession plan or mentorship plan. In this data set we also included a new source object to determine the department the employee is in. 
+* **Mentorship Title** - The second data analysis task is an extension to deliverable 1. Now that we know who is ready to retire soon, we want to identify those eligible candidates who can be built into a succession plan or mentorship plan. In this data set we also included a new source object to determine the department the employee is in. 
   * We used **DISTINCT ON** function to eliminate duplicate employees
   * We narrowed the result to employees who were born in the year **1965**
- * The module introducted basic SQL concepts and building datasets for analysis. We learnt some basics of ETL concepts in this module which is a key building block for a reporting platforms.  
+ * The module introduced basic SQL concepts and building datasets for analysis. We learnt the basics of ETL concepts in this module which is a key building block for reporting platforms.  
   
   
 ### Summary on Data Analysis
