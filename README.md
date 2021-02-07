@@ -28,10 +28,9 @@ This project focuses on building the SQL fundamentals and getting familiar with 
  * The module introducted basic SQL concepts and building datasets for analysis. We learnt some basics of ETL concepts in this module which is a key building block for a reporting platforms.  
   
   
-### Summary
-* How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-  * A total of 90398 employees are identified to be approaching their retirement period and only 1940 employees are eligible for mentorship.
-  * Getting in a little more graniluar, there are 29414 Senior Engineers projected to be retiering and only 589 employees are available taking **Engineer, Assistant Engineer and Technical Lead** titles into consideration for mentoring. This strategy eliminates 1/3 of the mentorship eligible employees leaving other categories of succession into risk.
-* Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-  * NO. The retirement-eligible employee count out numbers the number the mentoring list.
-  * Based on the analysis the company needs to plan for new hiring and build a succession plan accordingly.
+### Summary on Data Analysis
+* A total of 90398 employees are identified to be approaching their retirement period and only 1940 employees are eligible for mentorship.
+* Getting in a little more graniluar, their are 29414 Senior Engineers projected to be retiering and only 589 employees are available taking **Engineer, Assistant Engineer and Technical Lead** titles into consideration for mentoring. This strategy eliminates 1/3 of the mentorship eligible employees leaving other categories of succession into risk.
+* The retirement-eligible employee count out numbers the number the mentoring list. 
+* Based on the analysis the company does not have enough metorship titles to offset the retireing title. Due this fact the company needs to plan for new hiring, Look into process refinement to offset the risk of loosing long term employees.
+* A digital transformation of People, process and tools is something that is recommented as part to succession plan.
