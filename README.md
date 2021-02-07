@@ -4,9 +4,9 @@ This project focuses on building the SQL fundamentals and getting familiar with 
 * Database Concepts
 * Data Manupulation and Data Definition statements
 * Entity Relation Diagram and the difference between Conceptual, Logical and Physical structure and its purpose
-* Data normalization concepts by reviewing Primary Key, Forgeing Key and Unique keys constraints
-* Order of SQL execution and why it is important to understand the SQL execution.
-* SQL functions and performance implication when not used right
+* Data normalization concepts by reviewing Primary Key, Foreign Key and Unique keys constraints
+* Understanding the Order of SQL execution
+* SQL functions and performance implications when not used correctly
 * Aggregration functions
       
 ### Results
