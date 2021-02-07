@@ -26,7 +26,16 @@ This project focuses on building the SQL fundamentals and getting familiar with 
   
 * **Unique Title** - Take a look at the result set in  the retirement table. An employee has multiple entires based on various roles he/she might have carried during their tenure with the company. For our current analysis we just need their latest title entry hence using a ** DISTINCT ON** aggregation function on the **Primary Key** eliminates the duplicate entry. Below is an example of a single employee dataset to help vizualize the data. 
 
-<img src=/Analysis_Project_folder/Pewlette-Hackard-Analysis-Folder/DataCleanup.png alt="Eliminating Duplicates"/>
+<table>
+ <tr>   
+    <td align="center"> Eliminating DUpliacte Entries  </td>
+  </tr> 
+  <tr>   
+    <td valign="top"> <img src="/Analysis_Project_folder/Pewlette-Hackard-Analysis-Folder/DataCleanup.png" width="500" /> </td>
+   </tr>     
+</Table> 
+
+
 
 * **Retiring Title** - This result set is a aggregation of records count by title. So that the company can plan,priorities on mentorship program and ensure to perform **Resourcing Risk Analysis** in an efficient and effective timeframe.  
 * **Mentorship Title** - The second data analysis task is an extension to deliverable 1. Now that we know who is ready to retire soon, we want to identify those eligible candidate who can be built into a succession plan or mentorship plan. In this data set we also included a new source object to determine the department the employee is in. 
@@ -36,6 +45,18 @@ This project focuses on building the SQL fundamentals and getting familiar with 
   
   
 ### Summary on Data Analysis
+
+<table>
+ <tr>   
+    <td align="center"> Retire Metric  </td>
+    <td align="center"> Mentoring Metric </td>  
+  </tr> 
+  <tr>   
+    <td valign="top"> <img src="/Analysis_Project_folder/Pewlette-Hackard-Analysis-Folder/DataCleanup.png" width="500" /> </td>
+    <td valign="top"> <img src="/Analysis_Project_folder/Pewlette-Hackard-Analysis-Folder/DataCleanup.png" width="500" /> </td>
+   </tr>     
+</Table> 
+
 * A total of 90398 employees are identified to be approaching their retirement period and only 1940 employees are eligible for mentorship.
 * Getting in a little more graniluar, their are 29414 Senior Engineers projected to be retiering and only 589 employees are available taking **Engineer, Assistant Engineer and Technical Lead** titles into consideration for mentoring. This strategy eliminates 1/3 of the mentorship eligible employees leaving other categories of succession into risk.
 * The retirement-eligible employee count out numbers the number the mentoring list. 
