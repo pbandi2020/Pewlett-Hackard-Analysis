@@ -10,7 +10,7 @@ This project focuses on building the SQL fundamentals and getting familiar with 
 * Aggregration functions
       
 ### Results
-* **Retirement Title**  - The goal of the first output is to retrieve the employee information along with their titles who are anticipated to retire soon. The condition used to identify the pool of employees that fall into this category is highlighted in the below image and loaded to a new table called "retirement_title". 
+* **Retirement Titles**  - The goal of the first output is to retrieve the employee information along with their titles who are anticipated to retire soon. The condition used to identify the pool of employees that fall into this category is highlighted in the below image and loaded to a new table called "retirement_titles". 
   * In the first part of deliverable 1, we **EXTRACTED from the SOURCE objects and LOADED the output data into a NEW object.**
   * Employee and Title tables were the source objects and Retirement_titles is the result object.
  
