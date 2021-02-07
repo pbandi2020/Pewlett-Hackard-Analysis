@@ -52,8 +52,8 @@ This project focuses on building the SQL fundamentals and getting familiar with 
     <td align="center"> Mentoring Metric </td>  
   </tr> 
   <tr>   
-    <td valign="top"> <img src="/Analysis_Project_folder/Pewlette-Hackard-Analysis-Folder/DataCleanup.png" width="500" /> </td>
-    <td valign="top"> <img src="/Analysis_Project_folder/Pewlette-Hackard-Analysis-Folder/DataCleanup.png" width="500" /> </td>
+    <td valign="top"> <img src="/Analysis_Project_folder/Pewlette-Hackard-Analysis-Folder/RetirementTitle.png" width="500" /> </td>
+    <td valign="top"> <img src="/Analysis_Project_folder/Pewlette-Hackard-Analysis-Folder/MentoringTitle.png" width="500" /> </td>
    </tr>     
 </Table> 
 
