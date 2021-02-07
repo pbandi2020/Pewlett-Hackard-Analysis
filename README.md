@@ -48,8 +48,8 @@ This project focuses on building the SQL fundamentals and getting familiar with 
 
 <table>
  <tr>   
-    <td align="center" style="font-weight:bold"> Retire Metric  </td>
-    <td align="center" style="font-weight:bold"> Mentoring Metric </td>  
+    <td align="center" style="bold"> Retire Metric  </td>
+    <td align="center" style="bold"> Mentoring Metric </td>  
   </tr> 
   <tr>   
     <td valign="top"> <img src="/Analysis_Project_folder/Pewlette-Hackard-Analysis-Folder/Retires%20Titles.png" width="300" /> </td>
