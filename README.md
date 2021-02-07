@@ -28,7 +28,7 @@ This project focuses on building the SQL fundamentals and getting familiar with 
 
 <table>
  <tr>   
-    <td align="center"> Eliminating DUpliacte Entries  </td>
+    <td align="center"> Eliminating Dupliacte Entries  </td>
   </tr> 
   <tr>   
     <td valign="top"> <img src="/Analysis_Project_folder/Pewlette-Hackard-Analysis-Folder/DataCleanup.png" width="500" /> </td>
@@ -48,12 +48,12 @@ This project focuses on building the SQL fundamentals and getting familiar with 
 
 <table>
  <tr>   
-    <td align="center"> Retire Metric  </td>
-    <td align="center"> Mentoring Metric </td>  
+    <td align="center" style="font-weight:bold"> Retire Metric  </td>
+    <td align="center" style="font-weight:bold"> Mentoring Metric </td>  
   </tr> 
   <tr>   
-    <td valign="top"> <img src="/Analysis_Project_folder/Pewlette-Hackard-Analysis-Folder/Retires%20Titles.png" width="500" /> </td>
-    <td valign="top"> <img src="/Analysis_Project_folder/Pewlette-Hackard-Analysis-Folder/Mentoring%20Titles.png" width="500" /> </td>
+    <td valign="top"> <img src="/Analysis_Project_folder/Pewlette-Hackard-Analysis-Folder/Retires%20Titles.png" width="200" /> </td>
+    <td valign="top"> <img src="/Analysis_Project_folder/Pewlette-Hackard-Analysis-Folder/Mentoring%20Titles.png" width="200" /> </td>
    </tr>     
 </Table> 
 
