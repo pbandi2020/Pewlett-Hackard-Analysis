@@ -1,16 +1,14 @@
 # Pewlett-Hackard-Analysis
 ## Overview of Project
-This project focused on building the SQL fundamentals and getting familiar with the SQL editor. The scope of this project was to understand,
+This project focuses on building the SQL fundamentals and getting familiar with the SQL editor. The scope of this project is to understand,
 * Database Concepts
-* Data Manupulation and Data Definition statments
-* Entity Relation Diagram and the diffrence between Conceptual, Logical and Physical structure and its purpose
+* Data Manupulation and Data Definition statements
+* Entity Relation Diagram and the difference between Conceptual, Logical and Physical structure and its purpose
 * Data normalization concepts by reviewing Primary Key, Forgeing Key and Unique keys constraints
 * Order of SQL execution and why it is important to understand the SQL execution.
 * SQL functions and performance implication when not used right
 * Aggregration functions
-
-  
-     
+      
 ### Results
 * **Retirement Title**  - The goal of the first output is to retrieve the employee information along with their titles who are anticipated to retire soon. The condition used to identify the pool of employees that fall into this category is highlighted in the below image and loaded to a new table called "retirement_title". 
   * In the first part of deliverable 1, we **EXTRACTED from the SOURCE objects and LOADED the output data into a NEW object.**
