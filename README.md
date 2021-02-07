@@ -58,7 +58,7 @@ This project focuses on building the SQL fundamentals and getting familiar with 
 </Table> 
 
 * A total of 90398 employees are identified to be approaching their retirement period and only 1940 employees are eligible for mentorship.
-* Getting in a little more graniluar, their are 29414 Senior Engineers projected to be retiering and only 589 employees are available taking **Engineer, Assistant Engineer and Technical Lead** titles into consideration for mentoring. This strategy eliminates 1/3 of the mentorship eligible employees leaving other categories of succession into risk.
+* Getting in a little more granular, there are 29414 Senior Engineers projected to be retiring and only 589 employees who are available for mentorship taking **Engineer, Assistant Engineer and Technical Lead** titles into consideration for mentoring. This strategy eliminates 1/3 of the mentorship eligible employees leaving other categories of succession into risk.
 * The retirement-eligible employee count out numbers the mentoring list. 
 * Based on the analysis the company does not have enough metorship titles to offset the retireing title. Due this fact the company needs to plan for new hiring, Look into process refinement to offset the risk of loosing long term employees.
 * A digital transformation of People, process and tools is something that is recommented as part to succession plan.
